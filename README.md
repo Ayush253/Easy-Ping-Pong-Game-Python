@@ -4,3 +4,7 @@ This project will show you how much easy it is to build a classic ping-pong game
 # To play
 1. Download all files given into your local machine.
 2. Run main.py and enjoy!!!
+
+
+![Screenshot (42)](https://user-images.githubusercontent.com/81207867/200106219-34c86c5c-f09c-4ec8-b5f0-f5b5ddb330b1.jpg)
+![Screenshot (41)](https://user-images.githubusercontent.com/81207867/200106220-237b59ec-c2df-48f6-87c8-cfb7a2dcf0b8.jpg)
